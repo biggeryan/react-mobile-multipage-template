@@ -20,3 +20,12 @@
 * `rem`方案不做页面缩放，`remUnit`为100，以750设计稿为标准，可自行改动。
 * 集成了`Ant Design Mobile`，因为默认px，为了满足整个项目以750为准，在less层面扩大了两倍。
 * 更多细节请查看官方文档：[react app rewired](https://github.com/timarney/react-app-rewired)
+
+## 参考
+
+https://segmentfault.com/a/1190000016960824
+https://segmentfault.com/a/1190000017858725
+https://github.com/timarney/react-app-rewired/blob/master/test/react-app/config-overrides.js
+https://github.com/arackaf/customize-cra
+https://github.com/frontend9/fe9-library/issues/242
+https://webpack.docschina.org/plugins/split-chunks-plugin/
