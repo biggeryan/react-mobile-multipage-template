@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": ["standard", "standard-react"],
+  "rules": {
+    "semi": [2, "always"],
+    "jsx-quotes": [2, "prefer-double"]
+  }
+}
